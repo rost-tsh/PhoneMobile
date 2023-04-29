@@ -1,0 +1,15 @@
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\bin\Debug\net6.0\PhoneMobile.exe
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\bin\Debug\net6.0\PhoneMobile.deps.json
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\bin\Debug\net6.0\PhoneMobile.runtimeconfig.json
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\bin\Debug\net6.0\PhoneMobile.dll
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\bin\Debug\net6.0\PhoneMobile.pdb
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.csproj.AssemblyReference.cache
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.AssemblyInfoInputs.cache
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.AssemblyInfo.cs
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.csproj.CoreCompileInputs.cache
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.dll
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\refint\PhoneMobile.dll
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.pdb
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\PhoneMobile.genruntimeconfig.cache
+C:\Users\Rost\source\repos\PhoneMobile\PhoneMobile\obj\Debug\net6.0\ref\PhoneMobile.dll
